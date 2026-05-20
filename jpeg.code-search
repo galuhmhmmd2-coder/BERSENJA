@@ -1,0 +1,159 @@
+# Query: jpeg
+# ContextLines: 1
+
+38 results - 15 files
+
+aboutus.html:
+   13      <div class="nav-left">
+   14:       <img src="logo2.png.jpeg" alt="Logo Bersenja" class="logo">
+   15        <span>BERSENJA</span>
+
+  110          <div class="maker-photo">
+  111:             <img src="galuh.png.jpeg" alt="Galuh Muhammad Hikmat. P">
+  112            </div>
+
+  119            <div class="maker-photo">
+  120:             <img src="nafila.png.jpeg" alt="Nafilah Nur Afiilianti">
+  121            </div>
+
+  128            <div class="maker-photo">
+  129:             <img src="lisna.png.jpeg" alt="Lisna Nurraya">
+  130            </div>
+
+  137            <div class="maker-photo">
+  138:             <img src="nining.png.jpeg" alt="Nining Gendewa Jati">
+  139            </div>
+
+  146            <div class="maker-photo">
+  147:             <img src="julkam.png.jpeg" alt="Julkamnius Ziliwu">
+  148            </div>
+
+buy.html:
+  11      <div class="nav-left">
+  12:       <img src="logo2.png.jpeg" alt="Logo Bersenja" class="logo">
+  13        <span>BERSENJA</span>
+
+checkout-form.html:
+   12      <div class="nav-left">
+   13:       <img src="logo2.png.jpeg" alt="Logo Bersenja" class="logo">
+   14        <span>BERSENJA</span>
+
+  221              <div class="payment-detail">
+  222:               <img class="payment-logo" src="logo-seabank.png.jpeg" alt="Logo Seabank" />
+  223                <div class="payment-detail-text">
+
+  232              <div class="payment-detail">
+  233:               <img class="payment-logo" src="logo-bri.png.jpeg" alt="Logo Bri" />
+  234                <div class="payment-detail-text">
+
+  243              <div class="payment-detail">
+  244:               <img class="payment-logo" src="logo-dana.png.jpeg" alt="Logo Dana" />
+  245                <div class="payment-detail-text">
+
+checkout.html:
+  2    <div class="nav-left">
+  3:     <img src="logo2.png.jpeg" alt="Logo Bersenja" class="logo">
+  4      <span>Checkout</span>
+
+detail.html:
+  2    <div class="nav-left">
+  3:     <img src="logo2.png.jpeg" alt="Logo Bersenja" class="logo">
+  4      <span>BERSENJA</span>
+
+edukasi.html:
+  14      <div class="nav-left">
+  15:       <img src="logo2.png.jpeg" alt="Logo Bersenja" class="logo">
+  16        <span>BERSENJA</span>
+
+  49  <div class="video-card" data-video="https://www.youtube.com/embed/LHaAcTi4DrU" role="button" tabindex="0">
+  50: <img src="10-ide-rumahan.png.jpeg" alt="Aktivitas Lansia" />
+  51          <div class="video-meta">
+
+  57        <div class="video-card" data-video="https://www.youtube.com/embed/AwBxIaDlAEA" role="button" tabindex="0">
+  58:         <img src="sehat-dan-produktif.png.jpeg" alt="Tips Usaha Rumahan" />
+  59          <div class="video-meta">
+
+  65        <div class="video-card" data-video="https://www.youtube.com/embed/Vw8zibcPpbc" role="button" tabindex="0">
+  66:         <img src="Lansia-produktif.png.jpeg" alt="Praktik Menganyam" />
+  67          <div class="video-meta">
+
+index.html:
+  13      <div class="nav-left">
+  14:       <img src="logo2.png.jpeg" alt="Logo Bersenja" class="logo">
+  15        <span>BERSENJA</span>
+
+  59      <div class="hero-img">
+  60:       <img src="Beranda.png.jpeg" alt="Lansia beraktivitas produktif">
+  61      </div>
+
+marketplace.html:
+   13        <div class="nav-left">
+   14:       <img src="logo2.png.jpeg" alt="Logo Bersenja" class="logo">
+   15        <span>BERSENJA</span>
+
+  229        const defaultProducts = [
+  230:         { nama: 'Tas Anyaman', harga: 50000, image: 'Tas-Anyaman.png.jpeg', sellerNama: 'BERSENJA', kategori: 'kerajinan' },
+  231:         { nama: 'Keranjang Rotan', harga: 35000, image: 'Keranjang-rotan.png.jpeg', sellerNama: 'BERSENJA', kategori: 'kerajinan' },
+  232:         { nama: 'Keripik Pisang', harga: 20000, image: 'keripik.png.jpeg', sellerNama: 'BERSENJA', kategori: 'makanan-minuman' },
+  233:         { nama: 'Keripik Singkong', harga: 20000, image: 'Keripik-2.png.jpeg', sellerNama: 'BERSENJA', kategori: 'makanan-minuman' },
+  234:         { nama: 'Dompet Rajut', harga: 30000, image: 'Dompet-Rajut.png.jpeg', sellerNama: 'BERSENJA', kategori: 'aksesoris' },
+  235  
+
+  271          filtered.forEach(p => {
+  272:           const imgSrc = p.image || 'Keripik-2.png.jpeg';
+  273            const sellerNama = p.sellerNama || 'Penjual';
+
+order-accepted-notif.html:
+  11      <div class="nav-left">
+  12:       <img src="logo2.png.jpeg" alt="Logo Bersenja" class="logo">
+  13        <span>BERSENJA</span>
+
+order-confirm-seller.html:
+  13      <div class="nav-left">
+  14:       <img src="logo2.png.jpeg" alt="Logo Bersenja" class="logo">
+  15        <span>BERSENJA</span>
+
+order-pending.html:
+  11      <div class="nav-left">
+  12:       <img src="logo2.png.jpeg" alt="Logo Bersenja" class="logo">
+  13        <span>BERSENJA</span>
+
+profile.html:
+   11        <div class="nav-left">
+   12:         <img src="logo2.png.jpeg" alt="Logo Bersenja" class="logo" />
+   13          <span>Profil</span>
+
+   97          const defaultSeller = {
+   98:           foto: 'Orang-tua.png.jpeg',
+   99            umur: 62,
+
+  149                    <div class="card" style="margin:0;">
+  150:                     <img src="${p.image || 'Keripik-2.png.jpeg'}" alt="${p.nama}" />
+  151                      <div class="card-content">
+
+seller-setup.html:
+  12        <div class="nav-left">
+  13:         <img src="logo2.png.jpeg" alt="Logo Bersenja" class="logo" />
+  14          <span>BERSENJA</span>
+
+seller.html:
+   13      <div class="nav-left">
+   14:       <img src="logo2.png.jpeg" alt="Logo Bersenja" class="logo">
+   15        <span>BERSENJA</span>
+
+  457        products.forEach(p => {
+  458:         const imgSrc = p.image ? p.image : 'Keripik-2.png.jpeg';
+  459          const el = document.createElement('div');
+
+style.css:
+   719    ),
+   720:   url('Foto-bersama.png.jpeg');
+   721    
+
+  1008      ),
+  1009:     url('Orang-tua.png.jpeg');
+  1010  
+
+  1026    inset: -20px;
+  1027:   background-image: url('Foto-bersama.png.jpeg');
+  1028    background-size: cover;
